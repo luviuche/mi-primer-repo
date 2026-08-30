@@ -45,5 +45,3 @@ public class AppSettingsSection
     public string? Environment { get; set; }
     public bool SimulationEnabled { get; set; }
 }
-
-string stripeApiKey = "sk_test_51H1v5qJZ1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z1Z";

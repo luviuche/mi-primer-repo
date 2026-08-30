@@ -1,15 +1,18 @@
-/workspaces/mi-primer-repo/probando/bin/Debug/net10.0/probando
-/workspaces/mi-primer-repo/probando/bin/Debug/net10.0/probando.deps.json
-/workspaces/mi-primer-repo/probando/bin/Debug/net10.0/probando.runtimeconfig.json
-/workspaces/mi-primer-repo/probando/bin/Debug/net10.0/probando.dll
-/workspaces/mi-primer-repo/probando/bin/Debug/net10.0/probando.pdb
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.AssemblyInfoInputs.cache
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.AssemblyInfo.cs
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.csproj.CoreCompileInputs.cache
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.sourcelink.json
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.dll
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/refint/probando.dll
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.pdb
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/probando.genruntimeconfig.cache
-/workspaces/mi-primer-repo/probando/obj/Debug/net10.0/ref/probando.dll
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\bin\Debug\net10.0\probando.exe
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\bin\Debug\net10.0\probando.deps.json
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\bin\Debug\net10.0\probando.runtimeconfig.json
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\bin\Debug\net10.0\probando.dll
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\bin\Debug\net10.0\probando.pdb
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.csproj.AssemblyReference.cache
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.AssemblyInfoInputs.cache
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.AssemblyInfo.cs
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.csproj.CoreCompileInputs.cache
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.sourcelink.json
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.csproj.Up2Date
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.dll
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\refint\probando.dll
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.pdb
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\probando.genruntimeconfig.cache
+C:\Users\Luis Viuche\Documents\Platzi\mi-primer-repo\probando\obj\Debug\net10.0\ref\probando.dll

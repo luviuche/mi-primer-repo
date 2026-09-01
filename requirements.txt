@@ -1,0 +1,1 @@
+micuartorepo @ https://github.com/luviuche/miCuartoRepo/releases/download/v0.1.0/micuartorepo-0.1.0-py3-none-any.whl

@@ -430,3 +430,6 @@ FodyWeavers.xsd
 
 # Elimina este archivo de configuración
 appsettings.json
+
+# Python virtual environment
+.venv/
